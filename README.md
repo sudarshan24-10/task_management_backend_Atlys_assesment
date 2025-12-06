@@ -395,5 +395,3 @@ This backend was implemented following the Atlys Backend Engineering assignment 
 
 ---
 
-
-Just tell me **yes**.
