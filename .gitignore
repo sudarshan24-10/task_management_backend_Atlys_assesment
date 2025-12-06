@@ -1,0 +1,56 @@
+# ------------------------
+# Python general ignores
+# ------------------------
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pytest_cache/
+*.mypy_cache/
+*.ruff_cache/
+*.coverage
+.coverage.*
+htmlcov/
+
+# ------------------------
+# Virtual environment
+# ------------------------
+venv/
+.venv/
+VENV/
+ENV/
+
+# ------------------------
+# Environment variables
+# ------------------------
+server/.env
+*.env
+.env.*
+
+# ------------------------
+# Logs
+# ------------------------
+logs/
+*.log
+
+# ------------------------
+# OS / Editor Files
+# ------------------------
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+.idea/
+
+# ------------------------
+# Package outputs
+# ------------------------
+dist/
+build/
+*.egg-info/
+
+# ------------------------
+# Cache folders
+# ------------------------
+.cache/
